@@ -4,6 +4,7 @@ README
 1) uruchom aplikację:
 
 mvn package
+
 java -jar target/fundusze.jar
 
 4) Dostęp z poziomu swaggera:
